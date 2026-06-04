@@ -1,0 +1,14 @@
+.tab {
+  background-color: #FFCCAA;
+  font-weight: bold;
+  color: #941512;
+  padding: 4px 4px;
+}
+
+.button {
+  background-color: #FFCCAA;
+  font-weight: bold;
+  color: #941512;
+  padding: 4px 4px;
+  cursor: pointer;
+}
