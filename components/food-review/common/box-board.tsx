@@ -1,4 +1,4 @@
-import styles from '@/components/style.module.css'
+import styles from '@/components/food-review/style.module.css'
 
 export default function BoxBoard({
   title,

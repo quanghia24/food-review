@@ -18,7 +18,7 @@ export default function FoodResult({
           <Image
             width={240}
             height={240}
-            className="h-[240px] w-[240px] object-cover shrink-0 rounded-xl"
+            className="h-60 w-60 object-cover shrink-0 rounded-xl"
             src={imageUrl}
             alt={name}
           />

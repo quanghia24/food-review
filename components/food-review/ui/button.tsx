@@ -1,7 +1,5 @@
 "use client";
 
-import styles from "@/components/style.module.css";
-
 export default function Button({
   text,
   action,
